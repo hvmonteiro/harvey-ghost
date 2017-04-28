@@ -10,9 +10,9 @@ Support for code languages using [Prism](http://prismjs.com/).
 
 Usage example:
 ```
- ```language-markup
+  ```language-markup
  <h1>Hello World!</h1>
- ```
+  ```
 ```
 
 Specify different languages like:
