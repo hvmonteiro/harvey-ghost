@@ -1,0 +1,36 @@
+{
+    "name": "harvey",
+    "description": "Personal blogging theme for Ghost blogging platform.",
+    "demo": "",
+    "version": "1.0.0",
+    "engines": {
+        "ghost": ">=0.9.0 <1.0.0"
+    },
+    "license": "MIT",
+    "screenshots": {
+        "desktop": "assets/screenshot-desktop.jpg",
+        "mobile": "assets/screenshot-mobile.jpg"
+    },
+    "author": {
+        "name": "Hugo Monteiro",
+        "email": "hugo@hugovmonteiro.net",
+        "url": "https://www.hugovmonteiro.net"
+    },
+    "gpm": {
+        "type": "theme",
+        "categories": [
+            "Minimal",
+            "Personal Blogs"
+        ]
+    },
+    "keywords": [
+        "ghost",
+        "theme"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hvmonteiro/harvey.git"
+    },
+    "bugs": "https://github.com/hvmonteiro/harvey/issues",
+    "contributors": "https://github.com/hvmonteiro/harvey/graphs/contributors"
+}
